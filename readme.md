@@ -2,7 +2,6 @@
 ## Autores:
 - Jorge Pérez (@InfiniteDreamX)
 - Matías Ramos (@mframos3)
-- 
 ## Aqui van las tareas que realizo cada uno (desde que nos cambiamos al MeLI challenge)
 - Crear generador basado en ensemble de baselines: Matias
 - Probar chainRec: Matias
